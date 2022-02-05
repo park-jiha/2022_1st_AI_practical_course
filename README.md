@@ -1,3 +1,3 @@
-## CNN 수업 자료
+## 2022년 1차 AI 실무교육 (2022 1st AI practical course)
 
-### 2022년 1차 AI 실무교육
+### CNN 교육 자료 update
